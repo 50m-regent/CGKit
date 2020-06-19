@@ -1,0 +1,7 @@
+README.md
+setup.py
+cgkit/__init__.py
+cgkit.egg-info/PKG-INFO
+cgkit.egg-info/SOURCES.txt
+cgkit.egg-info/dependency_links.txt
+cgkit.egg-info/top_level.txt
