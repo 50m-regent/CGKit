@@ -6,8 +6,12 @@ class Player:
 
             self.status = {}
 
+            self.deck = []
+
         else:
             self.id   = data.id
             self.name = data.name
 
             self.status = data.status
+
+            self.deck = data.deck
